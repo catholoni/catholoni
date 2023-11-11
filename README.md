@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yurii</h1>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=catholoni&show_icons=true&locale=en" alt="sproogen" /></p>
+## My GitHub stats
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catholoni&hide=css,html&layout=compact" alt="sproogen"></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=catholoni&show_icons=true&locale=en" alt="sproogen"></p>
 
 <!--
 **catholoni/catholoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
